@@ -1,0 +1,10 @@
+1. generate python files for each year
+$ ./generate_all_codefiles.sh
+
+2. run multiple python files in parrellel process
+$ ./generate_parrellel_run.sh
+$ ./final_run.sh
+
+3. extract fullTierName data for each year
+$ cd ./oyez_full
+$ ./extract.sh
